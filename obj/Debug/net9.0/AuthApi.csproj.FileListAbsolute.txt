@@ -173,3 +173,4 @@ D:\dotNet Web Core\AuthApi\obj\Debug\net9.0\refint\AuthApi.dll
 D:\dotNet Web Core\AuthApi\obj\Debug\net9.0\AuthApi.pdb
 D:\dotNet Web Core\AuthApi\obj\Debug\net9.0\AuthApi.genruntimeconfig.cache
 D:\dotNet Web Core\AuthApi\obj\Debug\net9.0\ref\AuthApi.dll
+D:\dotNet Web Core\AuthApi\obj\Debug\net9.0\AuthApi.sourcelink.json
